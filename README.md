@@ -22,3 +22,7 @@ http://www.infoq.com/cn/news/2012/06/nodejs-mongo-app-autotest
 - http://visionmedia.github.io/mocha/
 - http://sinonjs.org/
 - http://zombie.labnotes.org/
+- passportjs.org认证中间件
+- https://github.com/madhums/node-express-mongoose 参考
+- nodemon非常实用的工具,用来监控你 node.js 源代码的任何变化和自动重启你的服务器
+
