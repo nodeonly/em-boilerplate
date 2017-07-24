@@ -27,10 +27,10 @@ npm install --save-dev zombie
 
 ## 相关网址
 
-- https://github.com/visionmedia/mocha
+- https://github.com/mochajs/mocha
 - https://github.com/chaijs/chai
 - http://chaijs.com/
-- http://visionmedia.github.io/mocha/
+- http://mochajs.org/
 - http://sinonjs.org/
 - http://zombie.labnotes.org/
 - passportjs.org认证中间件
